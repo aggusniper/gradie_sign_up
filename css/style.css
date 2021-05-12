@@ -57,7 +57,7 @@ body {
   .container {
     width: 60%;
     height: 60vh;
-    margin: 20% auto;
+    margin: 10% auto;
     display: flex;
     /* justify-content: center;
     align-content: center; */
@@ -68,7 +68,7 @@ body {
   .container {
     width: 45%;
     height: 55vh;
-    margin: 20% auto;
+    margin: 10% auto;
 
   }
 }
